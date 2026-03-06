@@ -7,5 +7,6 @@ public class Danilo_SomaTres {
         int C = leitor.nextInt();
         System.out.println((A + B + C));
         System.out.println("Renato esteve aqui");
+        System.out.println("Daniel teleportou até aqui");
     }
 }
